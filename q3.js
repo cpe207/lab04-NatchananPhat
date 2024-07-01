@@ -25,3 +25,5 @@ console.log(primeNumber(d2));
 console.log(primeNumber(d3));
 
 module.exports = primeNumber;
+
+//ณัฐชานันท์ ภัทรประดิษฐ์กุล 660612143
